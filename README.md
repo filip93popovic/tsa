@@ -1,1 +1,1 @@
-SARIMA
+The entire class of SARIMAX models, which include Autoregressive (AR) models, Moving Average (MA) models, Mixed Autoregressive Moving Average (ARMA) models, Autoregressive Integrated Moving Average (ARIMA) models, these models with explanatory variables (ARIMAX), and these models with seasonal components and explanatory variables (SARIMAX)
